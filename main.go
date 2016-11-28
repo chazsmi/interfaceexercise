@@ -34,7 +34,7 @@ func main() {
 		Go{Name: "bill", Age: 55, Says: "Dont talk to me about dependency management"},
 		C{Name: "Jill", Age: 45, Explains: "I wish my life was simpler"},
 		C{Name: "Ahamed", Age: 33, Explains: "Im tradtional and so is my language"},
-		Java{Name: "Rob", Age: 55, Says: "Your only using up 99% of yours resources..."},
+		Java{Name: "Rob", Age: 55, Says: "Your only using up 99% of your resources..."},
 		Php{Name: "Kimbley", Age: 23, Shouts: "Tabs and spaces lets spend loads of time debating it..."},
 	}
 
